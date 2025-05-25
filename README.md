@@ -1,5 +1,7 @@
 # Fuzzy.epf
 
+![illustration](https://github.com/user-attachments/assets/ee6d96df-6a42-4ae3-94fc-f21c7dd23d7b)
+
 Нечіткий пошук в 1С по довільним спискам елементів (без використання механізму повнотекстового пошуку).
 
 ## Навіщо?
