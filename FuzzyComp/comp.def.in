@@ -1,0 +1,7 @@
+LIBRARY "$<TARGET_FILE_NAME:FuzzyComp>"
+
+EXPORTS
+    GetClassObject
+    DestroyObject
+    GetClassNames
+    SetPlatformCapabilities
